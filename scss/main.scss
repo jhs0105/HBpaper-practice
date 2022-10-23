@@ -1,0 +1,12 @@
+@import "vars";
+@import "mixins";
+
+//변수사용하면 한번에 바뀌니 편하다.
+//swiper쓸때는 li에 클래스 줘서 사용. 이 외에는 li에 클래스 잘 안준다.
+
+#main-visual {
+  height: 100vh;
+  background-image: url("../images/main/mv_01.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+}

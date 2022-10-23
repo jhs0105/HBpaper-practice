@@ -1,0 +1,6 @@
+#main-visual {
+  height: 100vh;
+  background-image: url("../images/main/mv_01.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+}
